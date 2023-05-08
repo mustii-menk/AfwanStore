@@ -1,2 +1,0 @@
-# AfwanStore
-hms
